@@ -1,0 +1,54 @@
+.block{
+    display: flex;
+    justify-content: space-around;
+}
+
+h3{
+   background-color: red;
+   border-radius: 20px;
+padding: 10px 20px;
+color: white;
+}
+
+.photo{
+    display: flex;
+    justify-content: space-around;
+}
+
+body{
+    background-color: grey;
+}
+
+.button{
+background-color: black;
+color: white;
+padding: 10px 20px;
+display: flex;
+justify-content: center;
+border-radius: 20px;
+padding: 40px 60px;
+width: 100px;
+margin: 10px auto;
+}
+
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+
+.class{
+    width: 500px;
+    background-color: red;
+    border-radius: 20px;
+}
+
+p{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin: 15px;
+}
+
+.as{
+    padding: 30px 10px;
+}
